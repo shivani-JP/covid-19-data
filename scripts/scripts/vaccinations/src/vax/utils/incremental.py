@@ -174,4 +174,6 @@ def merge_with_current_data(df: pd.DataFrame, filepath: str) -> pd.DataFrame:
     col_ints = list(df.columns.intersection(col_ints))
     if col_ints:
         df[col_ints] = df[col_ints].astype("Int64").fillna(pd.NA)
-    return df
+
+    columns = ["location", "date", "vaccine", "source_url"] + col_ints
+    return df[columns]

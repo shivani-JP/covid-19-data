@@ -40,7 +40,7 @@ Central African Republic,CAF,"Covaxin, Oxford/AstraZeneca",2021-06-08,World Heal
 Chad,TCD,BBIBP-CorV,2021-06-10,World Health Organization,https://covid19.who.int/
 Chile,CHL,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",2021-06-11,Department of Statistics and Health Information via github.com/juancri/covid19-vaccination,https://www.gob.cl/yomevacuno/
 China,CHN,"CanSino, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac",2021-06-13,National Health Commission,http://www.nhc.gov.cn/xcs/yqjzqk/202106/12fa90b8940a454a9ef277fdac7a39d4.shtml
-Colombia,COL,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",2021-06-12,Ministry of Health,https://www.minsalud.gov.co/salud/publica/Vacunacion/PublishingImages/Vacunas%20covid/WhatsApp%20Image%202021-06-13%20at%208.11.13%20AM.jpeg
+Colombia,COL,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",2021-06-13,Ministry of Health,https://www.minsalud.gov.co/salud/publica/Vacunacion/PublishingImages/Vacunas%20covid/WhatsApp%20Image%202021-06-14%20at%207.56.08%20AM.jpeg
 Comoros,COM,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",2021-06-08,World Health Organization,https://covid19.who.int/
 Congo,COG,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",2021-06-10,World Health Organization,https://covid19.who.int/
 Cook Islands,COK,Oxford/AstraZeneca,2021-06-08,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
@@ -63,7 +63,7 @@ England,OWID_ENG,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-06-12,Gover
 Equatorial Guinea,GNQ,Sinopharm/Beijing,2021-06-10,Ministry of Health,https://guineasalud.org/estadisticas/
 Estonia,EST,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-06-13,National Health Board,https://opendata.digilugu.ee
 Eswatini,SWZ,Oxford/AstraZeneca,2021-05-13,Government of Eswatini,https://twitter.com/EswatiniGovern1/status/1392874186671075331
-Ethiopia,ETH,Oxford/AstraZeneca,2021-06-10,Ministry of Health,https://twitter.com/FMoHealth/status/1403054088154124292
+Ethiopia,ETH,Oxford/AstraZeneca,2021-06-13,Ministry of Health,https://twitter.com/FMoHealth/status/1404137337328738307
 Faeroe Islands,FRO,"Moderna, Pfizer/BioNTech",2021-06-13,Government of the Faeroe Islands,https://corona.fo/api
 Falkland Islands,FLK,Oxford/AstraZeneca,2021-04-14,Government of the Falkland Islands,https://www.facebook.com/FalkIandsGov/posts/4401230323224594
 Fiji,FJI,Oxford/AstraZeneca,2021-06-08,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
@@ -132,7 +132,7 @@ Montserrat,MSR,Oxford/AstraZeneca,2021-05-28,World Health Organization,https://c
 Morocco,MAR,"Oxford/AstraZeneca, Sinopharm/Beijing",2021-06-12,Ministry of Health,http://www.covidmaroc.ma/pages/Accueilfr.aspx
 Mozambique,MOZ,"Oxford/AstraZeneca, Sinopharm/Beijing",2021-06-10,World Health Organization,https://covid19.who.int/
 Myanmar,MMR,Oxford/AstraZeneca,2021-05-13,World Health Organization,https://covid19.who.int/
-Namibia,NAM,"Oxford/AstraZeneca, Sinopharm/Beijing",2021-06-10,Ministry of Health and Social Services,https://www.facebook.com/MoHSSNamibia/photos/a.500006330672375/760652457941093/
+Namibia,NAM,"Oxford/AstraZeneca, Sinopharm/Beijing",2021-06-13,Ministry of Health and Social Services,https://www.facebook.com/MoHSSNamibia/photos/a.500006330672375/762238941115778/
 Nauru,NRU,Oxford/AstraZeneca,2021-06-08,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
 Nepal,NPL,"Oxford/AstraZeneca, Sinopharm/Beijing",2021-06-12,Government of Nepal,https://covid19.mohp.gov.np/covid/englishSituationReport/60c48f7e1e240_SitRep489_COVID-19_12-06-2021_EN.pdf
 Netherlands,NLD,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-06-13,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
@@ -141,11 +141,11 @@ New Zealand,NZL,Pfizer/BioNTech,2021-06-08,Ministry of Health,https://www.health
 Nicaragua,NIC,"Oxford/AstraZeneca, Sputnik V",2021-05-21,World Health Organization,https://covid19.who.int/
 Niger,NER,"Oxford/AstraZeneca, Sinopharm/Beijing",2021-06-08,World Health Organization,https://covid19.who.int/
 Nigeria,NGA,Oxford/AstraZeneca,2021-06-04,Government of Nigeria,https://twitter.com/NphcdaNG/status/1400875651012378627
-North Macedonia,MKD,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",2021-06-10,Government of North Macedonia,https://twitter.com/ZdravstvoMK/status/1403264177246978048
+North Macedonia,MKD,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",2021-06-11,Government of North Macedonia,https://twitter.com/ZdravstvoMK/status/1403662746441420801
 Northern Cyprus,OWID_CYN,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",2021-05-27,Ministry of Health,https://asibilgisistemi.com/
 Northern Ireland,OWID_NIR,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-06-12,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
 Norway,NOR,"Moderna, Pfizer/BioNTech",2021-06-10,Norwegian Institute of Public Health,https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/
-Oman,OMN,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-06-13,World Health Organization,https://www.omanobserver.om/article/1102258/oman/12-of-the-sultanates-population-get-covid-19-vaccine
+Oman,OMN,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-06-13,World Health Organization,https://twitter.com/OmaniMOH/status/1404051530878160899
 Pakistan,PAK,"CanSino, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",2021-06-13,National Command and Operation Centre,https://ncoc.gov.pk/covid-vaccination-en.php
 Palestine,PSE,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-06-13,Ministry of Health,https://www.facebook.com/mohps/posts/3891022704356912
 Panama,PAN,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-06-13,Ministry of Health,https://twitter.com/MINSAPma/status/1404281079662526465
